@@ -1,0 +1,5 @@
+Makefile
+Makefile.Debug
+Makefile.Release
+debug/moc_mainwindow.cpp
+ui_mainwindow.h

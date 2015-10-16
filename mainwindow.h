@@ -21,7 +21,9 @@ public:
 private slots:
     void on_actionOpen_file_triggered();
 
-    void on_grayscale_clicked();
+    void on_grayscale_method_1_clicked();
+
+    void on_grayscale_method_2_clicked();
 
 private:
     Ui::MainWindow *ui;
